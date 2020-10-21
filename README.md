@@ -14,7 +14,6 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 2. Store your excel workbooks in here and create a sharable link for submission.
 
-
 ## Instructions
 
 ![Kickstarter Table](Images/FullTable.PNG)
@@ -62,6 +61,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 3. What are some other possible tables and/or graphs that we could create?
 
 ## Bonus
+
 
 * Create a new sheet with 8 columns:
 
